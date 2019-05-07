@@ -31,3 +31,6 @@
 
 （5）所有算法均报告成功与否，所有算法的输入、输出都保存并可复查。
 ```
+地图参考：
+
+https://github.com/Cyxxxxx/data_structure_fosuMap/edit/master/Nfosumap.jpg
